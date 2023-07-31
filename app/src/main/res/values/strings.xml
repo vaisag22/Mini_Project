@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SC Calculator</string>
+    <string name="stitle">CGPA Calculator</string>
+    <string name="select">Select Semester</string>
+    <string name="sem1">Semester 1</string>
+    <string name="sem2">Semester 2</string>
+    <string name="sem3">Semester 3</string>
+    <string name="sem4">Semester 4</string>
+    <string name="sem5">Semester 5</string>
+    <string name="sem6">Semester 6</string>
+    <string name="sem7">Semester 7</string>
+    <string name="sem8">Semester 8</string>
+    <string name="tot">TOTAL CREDITS</string>
+    <string name="semester1">Semester 1</string>
+    <string name="semester2">Semester 2</string>
+    <string name="semester3">Semester 3</string>
+    <string name="semester4">Semester 4</string>
+    <string name="semester5">Semester 5</string>
+    <string name="semester6">Semester 6</string>
+    <string name="semester7">Semester 7</string>
+    <string name="semester8">Semester 8</string>
+    <string name="okbtn">OK</string>
+    <string name="clearbtn">CLEAR</string>
+    <string name="res">RESULT</string>
+    <string name="hello_first_fragment">Your text here</string>
+    <string name="next">Your text here</string>
+    <string name="previous">Your text here</string>
+    <string name="first_fragment_label">Your text here</string>
+    <string name="second_fragment_label">Your text here</string>
+</resources>
